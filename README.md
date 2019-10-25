@@ -1,0 +1,1 @@
+Add optifine and timber to the ".minecraft/mods" folder
